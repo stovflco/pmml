@@ -4,7 +4,7 @@ Eine Auszeichnungssprache für Nachrichten im Pr0.
 
 ## Tags
 
-Ähnlich, wie HTML oder BB-Code ist die pmml ebenfalls Tagbasiert.
+pmml ist Tagbasiert.
 
 Dabei unterscheiden sich zwei Arten von Tags:
 
