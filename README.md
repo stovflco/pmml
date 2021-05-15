@@ -30,5 +30,5 @@ Tags beginnen mit einer eckigen Klmmer auf, dem Tagnamen, den Prametern (in Klam
 
 Beispiele:
 
-`[Image(base64_string)]`
-
+- `[Image("base64_string")]`
+- `[Icon("icon_key")]`
