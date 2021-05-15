@@ -23,3 +23,12 @@ Ein Inline-Tag wird wie Text ausgegeben und kann beliebig häufig eingesetzt wer
 #### Liste der Inline-Tags:
 
 - Icon
+
+## Sytax
+
+Tags beginnen mit einer eckigen Klmmer auf, dem Tagnamen, den Prametern (in Klammern, Wert in Anführungszeichen und kommergetrennt) und einer eckigen Klammer zu.
+
+Beispiele:
+
+`[Image(base64_string)]`
+
